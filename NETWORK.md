@@ -1,10 +1,17 @@
-# Zion AI Dependency Lifeguard
+# Zion AI Dependency Lifeguard — Zion App Network
 
-Supply-chain risk scoring and auto-upgrade PRs.
+Zion AI Dependency Lifeguard — supply-chain risk scoring and auto-upgrade PRs. Part of the [Zion Tech Group](https://ziontechgroup.com) app network.
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
-- Related: [zion-ai-secrets-sentinel](https://github.com/Zion-support/zion-ai-secrets-sentinel) · [zion-security-shield](https://github.com/Zion-support/zion-security-shield) · [zion-ai-code-reviewer](https://github.com/Zion-support/zion-ai-code-reviewer) · [zion-devsec-checklist](https://github.com/Zion-support/zion-devsec-checklist)
+- 🔗 Live app: [https://ziontechgroup.com/zion-ai-dependency-lifeguard](https://ziontechgroup.com/zion-ai-dependency-lifeguard)
+- 🏠 Category: [Dev & Ops Tools](https://github.com/Zion-support/zion-network/blob/main/network/dev-ops-tools.md)
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+## Related apps in the network
+
+- [Zion AI Code Reviewer](https://github.com/Zion-support/zion-ai-code-reviewer) — automated PR review and security linting
+- [Zion AI Secrets Sentinel](https://github.com/Zion-support/zion-ai-secrets-sentinel) — continuous secret scanning
+- [Tech Debt Radar](https://github.com/Zion-support/tech-debt-radar) — visualize and prioritize technical debt
+- [Zion AI Feature Flag Steward](https://github.com/Zion-support/zion-ai-feature-flag-steward) — stale-flag detection and cleanup PRs
+- [Zion AI Docs Doctor](https://github.com/Zion-support/zion-ai-docs-doctor) — detects stale docs and opens fix PRs
+
+## Part of the Zion App Network
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
